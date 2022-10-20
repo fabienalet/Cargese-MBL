@@ -1,4 +1,4 @@
-# Repository for Les Houches lectures on : "Numerical simulations for MBL"
+# Repository for Cargese lecture on : "Numerical simulations of lattice models of Many-Body Localization"
 
 
 [Wave Localization & Many-Body Localization in Quantum Information](https://cse.umn.edu/wave/wl-mblqi-event)
