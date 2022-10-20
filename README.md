@@ -29,3 +29,8 @@ There are also three (perhaps four) C++ codes that you should be able to use to 
 - Krylov time evolution code
 - Basic TEBD code
 - (not written yet) MPO Lindblad code
+
+# Notes
+
+There is a draft of lectures notes, prepared for a summer school in Les Houches in 2019. They have been slightly refreshed and adapted for this 2022 school. A more complete refreshing will be done in 2023. Stay tuned!
+
