@@ -1,8 +1,8 @@
 # Repository for Cargese lecture on : "Numerical simulations of lattice models of Many-Body Localization"
 
-[Wave Localization & Many-Body Localization in Quantum Information](https://cse.umn.edu/wave/wl-mblqi-event)
+[Quantum Localization & Glassy Physics](https://sites.google.com/view/qlgp-cargese-2023/home)
 
-Cargese School, October 24th -28th, 2022
+Cargese School, July 18th -28th, 2023
 
 Fabien Alet (fabien.alet@cnrs.fr)
 
@@ -35,5 +35,5 @@ There are also three C++ codes that you should be able to use to perform large s
 
 # Notes
 
-There is a draft of lectures notes, prepared for a summer school in Les Houches in 2019. They have been slightly refreshed and adapted for this 2022 school. A more complete update will be done in 2023. Stay tuned!
+There is a draft of lectures notes, prepared for a summer school in Les Houches in 2019. They have been slightly refreshed and adapted for this school. A more complete update will be done in fall 2023. Stay tuned!
 
